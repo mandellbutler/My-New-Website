@@ -43,6 +43,10 @@ nav div ul li {
     margin-left: 25px;
 }
 
-h1 {
-    text-align: center;
+h1, h2, footer {
+    display: flex;
+    justify-content: center;
+}
+footer {
+    color: #ffffff;
 }
