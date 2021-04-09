@@ -42,17 +42,10 @@ nav div ul li {
     margin-left: 25px;
 }
 
-h1, h2, footer, figcaption, figure {
+h1, h2, footer, figcaption {
     display: flex;
     justify-content: center;
 }
-/* Adjust Position and Demensions */
-#box {
-    height: 300px;
-    width: 300px;
-    border: 15px solid purple;
-}
-
 footer {
     color: #ffffff;
     font-size: 15px;
