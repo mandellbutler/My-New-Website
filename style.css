@@ -52,8 +52,17 @@ h1, h2, footer, figcaption, figure {
     width: 300px;
     border: 15px solid purple;
 }
+/* CONTACT FORM */
+#contact {
+    margin-bottom: 0;
+    padding: 40px 10px 40px 10px;
+    border-top: 3px solid #464283;
+    background-color: rgb(142, 142, 235); 
+}
 
 footer {
     color: #ffffff;
     font-size: 15px;
 }
+
+/* Class Selectors */
